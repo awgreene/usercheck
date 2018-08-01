@@ -1,2 +1,2 @@
-https://www.linkedin.com/in/{{ USERNAME }}/
-https://github.com/{{ USERNAME }}/
+Linkedin https://www.linkedin.com/in/{{USERNAME}}/
+Github https://github.com/{{USERNAME}}/
